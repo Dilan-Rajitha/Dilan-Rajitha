@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Dilan Rajitha Piumal</h1>
 <h3 align="center">A passionate Web developer and Software Engineering student from Sri Lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
@@ -21,6 +22,13 @@
 - ⚡ Fun fact **I am constantly exploring new ways to improve my web development skills and love experimenting with animations!**
 
 ---
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,6 +46,7 @@
 
 ---
 
+<br/><br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilan-rajitha&show_icons=true&locale=en&layout=compact" alt="dilan-rajitha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilan-rajitha&show_icons=true&locale=en" alt="dilan-rajitha" /></p>
